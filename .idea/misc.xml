@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="Olá! Preciso que você gere uma mensagem de commit para o seguinte cenário:&#10;&#10;O que foi feito: Explique claramente as mudanças realizadas, incluindo refatorações, adição de novas funcionalidades, correções de bugs ou melhorias no desempenho.&#10;Por que foi feito: Justifique a necessidade dessas mudanças (por exemplo, corrigir um erro, melhorar a legibilidade do código, otimizar uma função).&#10;Impacto: Descreva o impacto no sistema (por exemplo, melhorar a performance, corrigir uma falha crítica, adicionar novas funcionalidades).&#10;Detalhes adicionais: Adicione emojis apropriados para destacar o tipo de mudança (ex:  para nova feature,  para bug fix,  para mudanças de dependências, etc).&#10;Gosto de mensagens de commit detalhadas, claras e no tempo presente. Se possível, utilize convenções de boas práticas como &quot;feat:&quot;, &quot;fix:&quot;, &quot;chore:&quot;, &quot;refactor:&quot;, etc.&#10;&#10;Exemplo:&#10;&#10;feat: Adiciona funcionalidade de login com autenticação OAuth2 &#10;fix: Corrige falha no cálculo de impostos para produtos importados &#10;refactor: Melhora a estrutura do código de validação de formulários &#10;Dicas de Emojis:&#10;: Nova funcionalidade.&#10;: Correção de bug.&#10;: Alterações de dependências.&#10;: Atualizações de documentação.&#10;: Refatorações e melhorias no código.&#10;⚡: Otimização de performance.&#10;: Ajustes visuais (UI/UX).&#10;✅: Adição ou atualização de testes." />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
